@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1499794838 source:c:\users\dawid\desktop\ \c\hangman\main.cpp
+	"hangman.h"
+	<fstream>
+
+1497793492 c:\users\dawid\desktop\ \c\hangman\hangman.h
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cctype>
+
+1497815685 source:c:\users\dawid\desktop\ \c\hangman\hangmanpicture.cpp
+	"hangman.h"
+
